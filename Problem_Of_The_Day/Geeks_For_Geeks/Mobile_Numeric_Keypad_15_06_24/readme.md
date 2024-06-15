@@ -26,10 +26,6 @@ Input: 𝑛 = 2
 Output: 36  
 Explanation: There are 36 possible sequences of length 2. For instance, starting from 0, valid sequences include 00, 08, 01, 04, etc.
 
-## Constraints
-
-1 ≤ 𝑛 ≤ 25
-
 ## Approach
 
 ### Problem Understanding
